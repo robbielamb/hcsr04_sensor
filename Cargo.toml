@@ -1,5 +1,5 @@
 [package]
-name = "distance"
+name = "hcsr04_sensor"
 version = "0.1.0"
 authors = ["Robbie Lamb <lamb@eccentriclamb.com>"]
 edition = "2018"
